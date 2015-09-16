@@ -2,7 +2,7 @@
 
 ###
 
-Vagrantとrdoを組み合わせて手軽にOpenStack環境を構築しよう的な何かです。
+Vagrantとrdoを組み合わせて手軽にOpenStack環境を構築しよう的な何かです。  
 
 
 ```bash:git
@@ -14,8 +14,10 @@ vagrant up
 
 
 ### 参考
-* ytooyamaさんの記事が参考になります。
+* rdoについてytooyamaさんの記事が参考になります。
 https://github.com/ytooyama/rdo-kilo
+* openstack vagrant installation tool
+https://github.com/ggiamarchi/vagrant-openstack-provider
 
 
 
