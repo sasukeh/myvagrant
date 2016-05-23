@@ -1,0 +1,17 @@
+#    sudo rm -rf /etc/udev/rules.d/70-persistent-net.rules
+#     sudo apt-get update
+#     sudo apt-get install -y git
+#     sudo apt-get -y upgrade
+#     sudo apt -y autoremove
+#     git clone https://git.openstack.org/openstack-dev/devstack
+#     devstack/tools/create-stack-user.sh; su stack
+#     cd /opt/stack
+#     git clone https://git.openstack.org/openstack-dev/devstack
+#     cd devstack
+#     sudo init 6
+#     sudo su stack
+#     cd ~/devstack
+#     ./stack.sh
+
+
+
